@@ -1,4 +1,4 @@
-# Encrypt-it - https://encrypt-it.github.io
+# Encrypt-it - https://encrypt-it-tk.github.io
 
 ## What is Encrypt-it?
 > Encrypt-it is a simple website made by me (Douglas Caron) for my DofE! I really enjoyed creating this website, and I'm looking forwards into improving it in the future!

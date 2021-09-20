@@ -1,13 +1,12 @@
-# Encrypt-it - https://encrypt-it-tk.github.io
+# Encrypt-it - https://encryptit-tk.github.io
 
 ## What is Encrypt-it?
 > Encrypt-it is a simple website made by me (Douglas Caron) for my DofE! I really enjoyed creating this website, and I'm looking forwards into improving it in the future!
 
 ## 📋 What does it do?
 > At the moment, encrypt-it is a very basic website. It's only intent and original intent is to deliver simple text encryption to hide secret messages! It's just for fun.<br>
-Right now, encrypt-it's algorythm encrypts inputed messaged in MD5. This particular encryption runs on a 128-bit hash value.
-
-To read more about MD5 encryption, please click [this](https://wikipedia.org/wiki/MD5) link.
+Right now, encrypt-it runs base64 encryption.
+To read more about base64 encryption, please click [this](https://wikipedia.org/wiki/base64) link.
 
 ## Contributors
 > This website was fully made by me (Douglas) although, thank you to [Loannis P. Drositis](https://twitter.com/idrositis) for giving me some recources.

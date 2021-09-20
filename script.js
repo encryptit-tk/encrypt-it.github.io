@@ -1,4 +1,3 @@
-//Alex Friend
 
 var MD5 = function (string) {
 

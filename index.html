@@ -7,12 +7,19 @@
     </head>
 
     <body style="background-color: #202020;">
+        <p style="color: #ffff; text-align: center; font-size: 50px; font-family: Impact">Welcome to encryptit. Please type in a message bellow.</p>
+
         <script src="script.js"></script>
-        <h2 style="color: #ffff; text-align: center; font-size: 40px; font-family: impact">Getting started...<h2>
-        <h2 style="color: #ffff; text-align: center; font-size: 50px; font-family: impact">Welcome to encrypt-it. <br> Type your text bellow to encrypt it.</h2>
-        <div class="inputs" style="text-align:center">
-            <input id="text" onkeyup="crypt()" placeholder="e.g: Hello!"></input>
-            </div>
-            <p style="color: #ffff; text-align: center; font-size: 50px; font-family: impact">Output:</p>
-            <p id="encrypted" style="color: #ffff; text-align: center; font-size: 50px; font-family: impact"></p>
+        <div class="inputs" style="text-align: center;">
+        <input id="text" onkeyup="crypt()" placeholder="e.g: Hello!"></input>
+        </div>
+        <p style="color: #ffff; text-align: center; font-size: 50px; font-family: Impact">Output: </p>
+        <p id="encrypted" style="color: #ffff; text-align: center; font-size: 50px; font-family: Impact"></p>
+
+        <div class="inputs_decrypt" style="text-align: center;">
+            <input id="text2" onkeyup="decrypt()" placeholder="Decrypt"></input>
+        </div>
+
+        <p style="color: #ffff; text-align: center; font-size: 50px; font-family: Impact">Decrypted: </p>
+        <p id="decrypted" style="color: #ffff; text-align: center; font-size: 50px; font-family: Impact"></p>
     </body>
